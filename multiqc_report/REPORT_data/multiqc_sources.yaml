@@ -1,0 +1,7 @@
+Jellyfish:
+  all_sections:
+    minimap2_miniasm.count: /mnt/testscratch/lanno001/poreTally_20180921/analysis/summary/jellyfish/minimap2_miniasm.count
+    reference.count: /mnt/testscratch/lanno001/poreTally_20180921/analysis/summary/jellyfish/reference.count
+QUAST:
+  all_sections:
+    minimap2_miniasm: /mnt/testscratch/lanno001/poreTally_20180921/analysis/summary/quast/report.tsv

@@ -1,0 +1,42 @@
+minimap2_miniasm:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 8.0
+  '# contigs (>= 0 bp)': 8.0
+  '# contigs (>= 1000 bp)': 8.0
+  '# contigs (>= 10000 bp)': 8.0
+  '# contigs (>= 25000 bp)': 8.0
+  '# contigs (>= 5000 bp)': 8.0
+  '# contigs (>= 50000 bp)': 8.0
+  '# genes': 82.0
+  '# genes_partial': 4.0
+  '# indels per 100 kbp': 4237.27
+  '# local misassemblies': 0.0
+  '# misassembled contigs': 0.0
+  '# misassemblies': 0.0
+  '# mismatches per 100 kbp': 3302.95
+  '# unaligned contigs': 3.0
+  '# unaligned contigs_partial': 5.0
+  '# unaligned mis. contigs': 1.0
+  Duplication ratio: 0.958
+  Genome fraction (%): 1.607
+  L50: 2.0
+  L75: 4.0
+  LG50: 7.0
+  Largest alignment: 61053.0
+  Largest contig: 1173246.0
+  Misassembled contigs length: 0.0
+  N50: 303115.0
+  N75: 187752.0
+  NG50: 132154.0
+  NGA50: '-'
+  Reference GC (%): 50.79
+  Reference length: 4641652.0
+  Total aligned length: 71439.0
+  Total length: 2452059.0
+  Total length (>= 0 bp): 2452059.0
+  Total length (>= 1000 bp): 2452059.0
+  Total length (>= 10000 bp): 2452059.0
+  Total length (>= 25000 bp): 2452059.0
+  Total length (>= 5000 bp): 2452059.0
+  Total length (>= 50000 bp): 2452059.0
+  Unaligned length: 2380620.0

@@ -1,0 +1,7 @@
+minimap2_miniasm:
+  I/O in (MB/s): 2.31
+  I/O out (MB/s): 5.4
+  Wall time: 0:00:08
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 566.0
+  peak USS (MB): 565.88

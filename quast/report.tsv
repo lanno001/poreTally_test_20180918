@@ -1,0 +1,40 @@
+Assembly	minimap2_miniasm
+# contigs (>= 0 bp)	8
+# contigs (>= 1000 bp)	8
+# contigs (>= 5000 bp)	8
+# contigs (>= 10000 bp)	8
+# contigs (>= 25000 bp)	8
+# contigs (>= 50000 bp)	8
+Total length (>= 0 bp)	2452059
+Total length (>= 1000 bp)	2452059
+Total length (>= 5000 bp)	2452059
+Total length (>= 10000 bp)	2452059
+Total length (>= 25000 bp)	2452059
+Total length (>= 50000 bp)	2452059
+# contigs	8
+Largest contig	1173246
+Total length	2452059
+Reference length	4641652
+Reference GC (%)	50.79
+N50	303115
+NG50	132154
+N75	187752
+L50	2
+LG50	7
+L75	4
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	1
+# unaligned contigs	3 + 5 part
+Unaligned length	2380620
+Genome fraction (%)	1.607
+Duplication ratio	0.958
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	3302.95
+# indels per 100 kbp	4237.27
+# genes	82 + 4 part
+Largest alignment	61053
+Total aligned length	71439
+NGA50	-

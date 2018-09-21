@@ -1,0 +1,8 @@
+minimap2_miniasm:
+  CPU usage_mqc-generalstats-Wall_time: 0:00:08
+  CPU usage_mqc-generalstats-peak_CPU_usage_PSS_MB: 566.0
+  QUAST_mqc-generalstats-Genome_fraction: 1.607
+  QUAST_mqc-generalstats-N50: 303115.0
+  QUAST_mqc-generalstats-Total_length: 2452059.0
+  QUAST_mqc-generalstats-indels_per_100_kbp: 4237.27
+  QUAST_mqc-generalstats-mismatches_per_100_kbp: 3302.95
